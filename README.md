@@ -1,2 +1,3 @@
-# challenge
-Can you find the secret phrase?
+# Squads Challenge
+Thanks for you interest in joining the Squads dev team!
+V2UndmUgaGlkZGVuIGEgMTIgY2hhcmFjdGVyIHBocmFzZSBpbiB0aGUgYWNjb3VudCA4QUd2dHgyS2FFODI5TW56d1VTVXFCQmtLRlZIRWpyUWV6R1lhY1U4Vmo4WSBTb2xhbmEncyBkZXZuZXQuIENhbiB5b3UgdGVsbCB1cyB3aGF0IHRoZSBwaHJhc2UgaXM/
