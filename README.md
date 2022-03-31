@@ -24,4 +24,5 @@ Program FCD9btrGUSm4XNiwnCxEXFvCNfH35qjjqfUVjgX5x5Nm consumed 63055 of 200000 co
 
 Program FCD9btrGUSm4XNiwnCxEXFvCNfH35qjjqfUVjgX5x5Nm success
 ```
-5. assume the key is `8AGvtx2KaE829MnzwUSUqBBkKFVHEjrQezGYacU8Vj8Y`
+5. pull out the data from the 2nd log `0c00000073517541645363306433725a`
+6. convert the hex to ascii, `sQuAdSc0d3rZ`
